@@ -60,3 +60,6 @@ gem 'htmlbeautifier'
 
 #bootstrap
 gem 'bootstrap-sass'
+
+#encrypt
+gem 'bcrypt'
