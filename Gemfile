@@ -63,3 +63,6 @@ gem 'bootstrap-sass'
 
 #encrypt
 gem 'bcrypt'
+
+# testing controllers
+gem 'rails-controller-testing'
