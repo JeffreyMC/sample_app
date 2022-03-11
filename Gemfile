@@ -66,3 +66,10 @@ gem 'bcrypt'
 
 # testing controllers
 gem 'rails-controller-testing'
+
+# create random users
+gem 'faker'
+
+#pagination
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
